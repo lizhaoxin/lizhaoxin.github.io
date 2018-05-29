@@ -1,2 +1,3 @@
 name: 书写的小纸条
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
