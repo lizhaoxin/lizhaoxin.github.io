@@ -1,3 +1,9 @@
+---
+layout: post
+title: "书写的小纸条, Java8 HashMap"
+date: 2018-05-29
+---
+
 # 一张图认识Java8 HashMap
 
 > 最近自己在学习Java8 HashMap的知识，并通过使用思维导图将学习的到知识绘制成一张图，方便复习内容。包含以下方面内容：
