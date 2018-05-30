@@ -42,4 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-img { zoom: 50%; }
+img { 
+    zoom: 50%; 
+}
