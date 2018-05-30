@@ -15,7 +15,7 @@ date: 2018-05-29
 #### Java8 HashMap 之旅
 
 
-![Java8 HashMap 学习思维导图](https://user-images.githubusercontent.com/8023510/40732599-32176c72-6466-11e8-89fa-33f0e797f05e.png)
+![Java8 HashMap 学习思维导图](https://user-images.githubusercontent.com/8023510/40732599-32176c72-6466-11e8-89fa-33f0e797f05e.png){:width="660px"}
 
 
 ---
