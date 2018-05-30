@@ -43,5 +43,5 @@ ul.posts li {
 }
 
 img { 
-    zoom: 50%; 
+    max-width: 100%; 
 }
